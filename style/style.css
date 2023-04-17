@@ -14,3 +14,9 @@ body {
   padding: 0 12px;
   color: green;
 }
+
+.croissant-photo {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
